@@ -1,5 +1,4 @@
 # DjRendszer
 
-hu:
 Leírás: Teljesen magyar és van benne előre berakott zene is
 Szükséglet: ox_lib, xsound
